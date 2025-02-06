@@ -47,18 +47,18 @@ The participants are requested to follow the following steps to prepare their wo
 
 ### 13:00-14:00 hrs CST  - 10 minutes Break/Q&A/Setting up worksapce
 
-### Session 2: 14:00-14:30 hrs CST | Introduction to App Development using StreamLit | [Notebook](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-WorkShop1/blob/53bf21514aad0460d1639a67c877a8fc985980f0/1_Case_study_Streamlit.ipynb) 
+### Session 2: 14:00-14:30 hrs CST | Introduction to App Development using StreamLit | [Notebook](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-Workshop/blob/c23bba0f50fa09cf238a9381a31e4fe91c3433ac/1-Hands-On-Tutorial-On-Streamlit.ipynb) 
 - Basic StreamLit Syntax
 - App development using StreamLit
 
 
-### Session 3: 14:30-15:00 hrs CST  - Hands-On tutorial  on Text Classification using LLM and StreamLit | [Notebook](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-WorkShop1/blob/4058a7abe41bcc518fb091784e56845c55605549/2_Case_study_sentiment.ipynb) 
+### Session 3: 14:30-15:00 hrs CST  - Hands-On tutorial  on Text Classification using LLM and StreamLit | [Notebook](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-Workshop/blob/c23bba0f50fa09cf238a9381a31e4fe91c3433ac/2-Hands-on-Tutorial-On_Sentiment-Analaysis-LLM-StreamLit.ipynb) 
 - Building a sentiment classification model using locally installed LLMs.
 - Building an user interface using StreamLit. 
 
 ### 15:00-15:10 hrs CST  - 10 minutes Break/Q&A/Setting up worksapce
 
-### Session 4: 15:10-16:00 hrs CEST - Hands-On tutorial on Retrieval Augmented Generation (RAG) using LLM and StreamLit | [notebook](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-WorkShop1/blob/4058a7abe41bcc518fb091784e56845c55605549/03_Case_study_RAG.ipynb)
+### Session 4: 15:10-16:00 hrs CEST - Hands-On tutorial on Retrieval Augmented Generation (RAG) using LLM and StreamLit | [notebook]([https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-WorkShop1/blob/4058a7abe41bcc518fb091784e56845c55605549/03_Case_study_RAG.ipynb](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-Workshop/blob/c23bba0f50fa09cf238a9381a31e4fe91c3433ac/3-Hands-On-Tutorial-On-Retrieval-Augmented-Generation-LLM.ipynb)
 - Understanding the Basic Concepts of RAG.
 - Implementing a RAG architecture using locally installed LLM.
 - Building an user interface using StreamLit. 
