@@ -12,17 +12,7 @@ Please cite this tutorial as:
 
 **Bishnu Sarker, Cameron Pykiet, Jaylin Dyson (2025, February). Workshop 1: Building Interdisciplinary applications using Large Language Models. In 2025 Data Science Symposium at South Dakota State University, February 6-7, 2025, Brookings, SD.**
 
-
-
-# 2025 Data Science Symposium, South Dakota State University.
-
 # Worskshop 1: Building Interdisciplinary applications using Large Language Models 
-Held as part of  the 2025 Data Science Symposium at South Dakota State University, February 6-7, 2025, Brookings, SD. 
-Tutorial Dates: February 6, 2025, at 13:00-17:00 hrs CST  
-### Citing this tutorial
-Please cite this tutorial as:
-
-**Bishnu Sarker, Cameron Pykiet, Jaylin Dyson (2025, February). Workshop 1: Building Interdisciplinary applications using Large Language Models. In 2025 Data Science Symposium at South Dakota State University, February 6-7, 2025, Brookings, SD.**
 
 ### Overview
 In the current decade, AI/ML has tremendously facilitated scientific discoveries in interdisciplinary research and development that includes agriculture, biomedicine and healthcare. Moreover, the recent advancements in the development of large language models (a type of deep learning model that can read, summarize, translate, and generate text as we humans do) have inspired many researchers to find applications in biological sequence analysis, partly because of the similarities in the data. Attention-based deep transformer models pre-trained in a self-supervised fashion on large corpus have dramatically transformed research in natural language processing. The attention mechanism involved in transformer models captures the long-distance relationship among words in textual data. Researchers have trained transformer-based language models for multi-disciplinary applications that includes agriculture, medicine, finance etc. They showed that transformer-based self-supervised language models effectively capture the spatial relationship in data which is critical for learning meaningful representation. 
