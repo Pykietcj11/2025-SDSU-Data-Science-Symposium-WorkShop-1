@@ -41,31 +41,46 @@ The participants are requested to follow the following steps to prepare their wo
 
 # Outline of the Workshop
 
-## DAY 1 - February, 2025 (13:00 -17:00 hrs CST)
-
-### 13:00-13:50 hrs CST | Fundamentals of Large Language Models | [Slides]()
+### Session 1: 13:00-13:50 hrs CST | Fundamentals of Large Language Models | [Slides]()
 - Introduction to the tutorial session
 - Fundamental concepts about Large Language Model. Brief theory and practical workflow.   
 
-### 13:00-14:00 hrs CST  - 10 minutes Break/Q&A/Setting up worksapce
-### 14:00-14:30 hrs CST | Introduction to App Development using StreamLit |
+### 13:00-14:00 hrs CST  - 10 minutes Break/Q&A/Setting up worksapce
+
+### Session 2: 14:00-14:30 hrs CST | Introduction to App Development using StreamLit | [Notebook](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-WorkShop1/blob/53bf21514aad0460d1639a67c877a8fc985980f0/1_Case_study_Streamlit.ipynb) 
 - Basic StreamLit Syntax
 - App development using StreamLit
 
-[Colab-Notebook-Python-Refresher](https://github.com/Bishnukuet/ISMB_ECCB_2023_VT2_LLM/blob/main/notebooks/Day%201-Part-1A-Python-Refresher.ipynb)
 
-### 14:30-15:30 hrs CST  - 3.	Hands-On case study of Text Classification using LLM and StreamLit. 
+### Session 3: 14:30-15:00 hrs CST  - Hands-On tutorial  on Text Classification using LLM and StreamLit | [Notebook](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-WorkShop1/blob/4058a7abe41bcc518fb091784e56845c55605549/2_Case_study_sentiment.ipynb) 
+- Building a sentiment classification model using locally installed LLMs.
+- Building an user interface using StreamLit. 
+
+### 15:00-15:10 hrs CST  - 10 minutes Break/Q&A/Setting up worksapce
+
+### Session 4: 15:10-16:00 hrs CEST - Hands-On tutorial on Retrieval Augmented Generation (RAG) using LLM and StreamLit | [notebook](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-WorkShop1/blob/4058a7abe41bcc518fb091784e56845c55605549/03_Case_study_RAG.ipynb)
+- Understanding the Basic Concepts of RAG.
+- Implementing a RAG architecture using locally installed LLM.
+- Building an user interface using StreamLit. 
+
+### Session 5: 16:10-16:45 hrs CST | Large Language Model for Protein Sequence Generation and Analysis | [notebook](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-WorkShop1/blob/4058a7abe41bcc518fb091784e56845c55605549/4_Case_study_pfp.ipynb)
+- Understanding the interdisciplinary application of LLMs.
+- Building an machine learning modeling using protein language model.
+- Demonstrating LLMs for sequence generation. 
+
+### 16:45-17:00 hrs CEST  - 15 Concluding Remarks and Q&A
+
+# Speakers
+
+## 1. Cameron Pykiet
+Cameron Pykiet is a second year MS in Data Science student in the School of Applied Computational Sciences at Meharry Medical College. He is an active member of Sarker’s lab Omics Mining and Algorithmic Reasoning (L’OMAR).  His research focus is in building a large language model with new tokenization for protein function prediction. He has expertise in building and using large language model from scratch. 
+
+## 2. Jaylin Dyson
+Jaylin Dyson is a second year MS in Data Science student in the School of Applied Computational Sciences at Meharry Medical College. He is an active member of Sarker’s lab Omics Mining and Algorithmic Reasoning (L’OMAR).  His research focus is in building a deep learning framework for knowledge graph based protein function prediction . He has expertise in building and using knowledge graphs for biomedical knowledge discovery.   
+
+## 3. Bishnu Sarker 
+Bishnu Sarker is an Assistant Professor of Computer Science and Data Science at Meharry Medical College, Nashville, TN, USA. He is the Principal Investigator of Sarker’s lab Omics Mining and Algorithmic Reasoning (L’OMAR). His research focus is on applying AI, deep learning, natural language processing (NLP), and graph-based reasoning approaches to effectively describe proteins numerically and to infer their functional characteristics from complex, heterogeneous, and interconnected biomedical data. He received his BS from Khulna University of Engineering and Technology, Bangladesh; MS from Sorbonne University, France; and PhD from INRIA, France. During his PhD he spent a winter at MILA - Quebec AI Institute and University of Montreal, Canada, as a visiting researcher with the DrEAM mobility grant from University of Lorraine. 
 
 
-### 16:00-17:45 hrs CEST | Introduction to biological sequence analysis using Deep Learning in Python | [Slides](https://github.com/Bishnukuet/ISMB_ECCB_2023_VT2_LLM/blob/main/Slides/Lecture%201.3%20-%20Introduction%20to%20Sequence%20Modeling.pptx.pdf)
-- Introduction to biological sequence analysis using Deep Learning in Python
-- Building deep learning models (RNN, LSTM) for sequence analysis
-
-[Colab-Notebook-RNN](https://github.com/Bishnukuet/ISMB_ECCB_2023_VT2_LLM/blob/main/notebooks/Day%201-Part-1B-RNN_Sequence_Classification.ipynb)  [Colab-Notebook-LSTM](https://github.com/Bishnukuet/ISMB_ECCB_2023_VT2_LLM/blob/main/notebooks/Day%201-Part-1C-LSTM_Sequence_Classification.ipynb)
-
-### 17:45-18:00 hrs CEST  - 15 minutes Break/Q&A
-
-
-## DAY 2 - July 18, 2023 (14:00 -18:00 hrs CEST)
-
-### 14:00-15:00 hrs CEST | Introduction to Transfo
+# Acknoledgement
+This material is based upon work partially supported by the National Science Foundation under Grant No. 2302637. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
