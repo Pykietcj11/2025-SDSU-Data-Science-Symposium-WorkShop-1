@@ -1,6 +1,7 @@
 ## **2025 SDSU Data Science Symposium**
 
 **Venue:** Student Union, South Dakota State University, Brookings, SD, USA
+
 **Website:** https://openprairie.sdstate.edu/datascience_symposium/2025/  
 
 **Date of the session:** February 6, 2025; 13:00-17:00 hrs CST
