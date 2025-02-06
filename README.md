@@ -52,18 +52,18 @@ The participants are requested to follow the following steps to prepare their wo
 - App development using StreamLit
 
 
-### Session 3: 14:30-15:00 hrs CST  - 3.	Hands-On tutorial  on Text Classification using LLM and StreamLit | [Notebook](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-WorkShop1/blob/4058a7abe41bcc518fb091784e56845c55605549/2_Case_study_sentiment.ipynb) 
+### Session 3: 14:30-15:00 hrs CST  - Hands-On tutorial  on Text Classification using LLM and StreamLit | [Notebook](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-WorkShop1/blob/4058a7abe41bcc518fb091784e56845c55605549/2_Case_study_sentiment.ipynb) 
 - Building a sentiment classification model using locally installed LLMs.
 - Building an user interface using StreamLit. 
 
 ### 15:00-15:10 hrs CST  - 10 minutes Break/Q&A/Setting up worksapce
 
-### Session 4: 15:10-16:00 hrs CEST - 3.	Hands-On tutorial on Retrieval Augmented Generation (RAG) using LLM and StreamLit | [notebook](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-WorkShop1/blob/4058a7abe41bcc518fb091784e56845c55605549/03_Case_study_RAG.ipynb)
+### Session 4: 15:10-16:00 hrs CEST - Hands-On tutorial on Retrieval Augmented Generation (RAG) using LLM and StreamLit | [notebook](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-WorkShop1/blob/4058a7abe41bcc518fb091784e56845c55605549/03_Case_study_RAG.ipynb)
 - Understanding the Basic Concepts of RAG.
 - Implementing a RAG architecture using locally installed LLM.
 - Building an user interface using StreamLit. 
 
-### 16:10-16:45 hrs CST | Large Language Model for Protein Sequence Generation and Analysis | [notebook](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-WorkShop1/blob/4058a7abe41bcc518fb091784e56845c55605549/4_Case_study_pfp.ipynb)
+### Session 5: 16:10-16:45 hrs CST | Large Language Model for Protein Sequence Generation and Analysis | [notebook](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-WorkShop1/blob/4058a7abe41bcc518fb091784e56845c55605549/4_Case_study_pfp.ipynb)
 - Understanding the interdisciplinary application of LLMs.
 - Building an machine learning modeling using protein language model.
 - Demonstrating LLMs for sequence generation. 
