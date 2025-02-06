@@ -41,32 +41,33 @@ The participants are requested to follow the following steps to prepare their wo
 
 # Outline of the Workshop
 
-### Session 1: 13:00-13:50 hrs CST | Fundamentals of Large Language Models | [Slides]()
+### Session 1: 13:00-13:50 hrs CST | Fundamentals of Large Language Models.
 - Introduction to the tutorial session
-- Fundamental concepts about Large Language Model. Brief theory and practical workflow.   
+- Fundamental concepts about Large Language Model. Brief theory and practical workflow. [Slides](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-Workshop/blob/aa3560720624fcf63614af45778f0105516c85b6/Presentation_1_Fundamentals_of_large_language_models.pdf) 
 
 ### 13:00-14:00 hrs CST  - 10 minutes Break/Q&A/Setting up worksapce
 
-### Session 2: 14:00-14:30 hrs CST | Introduction to App Development using StreamLit | [Notebook](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-Workshop/blob/c23bba0f50fa09cf238a9381a31e4fe91c3433ac/1-Hands-On-Tutorial-On-Streamlit.ipynb) 
+### Session 2: 14:00-14:30 hrs CST | Introduction to App Development using StreamLit.
 - Basic StreamLit Syntax
-- App development using StreamLit
+- App development using StreamLit  [Notebook](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-Workshop/blob/c23bba0f50fa09cf238a9381a31e4fe91c3433ac/1-Hands-On-Tutorial-On-Streamlit.ipynb) 
 
 
-### Session 3: 14:30-15:00 hrs CST  - Hands-On tutorial  on Text Classification using LLM and StreamLit | [Notebook](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-Workshop/blob/c23bba0f50fa09cf238a9381a31e4fe91c3433ac/2-Hands-on-Tutorial-On_Sentiment-Analaysis-LLM-StreamLit.ipynb) 
-- Building a sentiment classification model using locally installed LLMs.
+### Session 3: 14:30-15:00 hrs CST  - Hands-On tutorial  on Text Classification using LLM and StreamLit. 
+- Building a sentiment classification model using locally installed LLMs.  [Notebook](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-Workshop/blob/c23bba0f50fa09cf238a9381a31e4fe91c3433ac/2-Hands-on-Tutorial-On_Sentiment-Analaysis-LLM-StreamLit.ipynb)
 - Building an user interface using StreamLit. 
 
 ### 15:00-15:10 hrs CST  - 10 minutes Break/Q&A/Setting up worksapce
 
-### Session 4: 15:10-16:00 hrs CEST - Hands-On tutorial on Retrieval Augmented Generation (RAG) using LLM and StreamLit | [notebook](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-Workshop/blob/c23bba0f50fa09cf238a9381a31e4fe91c3433ac/3-Hands-On-Tutorial-On-Retrieval-Augmented-Generation-LLM.ipynb)
+### Session 4: 15:10-16:00 hrs CEST - Hands-On tutorial on Retrieval Augmented Generation (RAG) using LLM and StreamLit.
 - Understanding the Basic Concepts of RAG.
-- Implementing a RAG architecture using locally installed LLM.
+- Implementing a RAG architecture using locally installed LLM.  [notebook](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-Workshop/blob/c23bba0f50fa09cf238a9381a31e4fe91c3433ac/3-Hands-On-Tutorial-On-Retrieval-Augmented-Generation-LLM.ipynb)
 - Building an user interface using StreamLit. 
 
-### Session 5: 16:10-16:45 hrs CST | Large Language Model for Protein Sequence Generation and Analysis | [Slides](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-Workshop/blob/37729940d4a76a35140f2eb0c751c5415663a305/Presentation%202-Case-Study-Protein-Function-Prediction.pdf) | [notebook 1](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-Workshop/blob/37729940d4a76a35140f2eb0c751c5415663a305/4-Hands-On-Tutorial-On-Loading-Pre-Trainied-Transformers-From-HF.ipynb) | [Notebook 2](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-Workshop/blob/37729940d4a76a35140f2eb0c751c5415663a305/5-Hands-On-Tutorial-On-Protein-Function-Prediction-ProTrans.ipynb)
-- Understanding the interdisciplinary application of LLMs.
-- Building an machine learning modeling using protein language model.
-- Demonstrating LLMs for sequence generation. 
+### Session 5: 16:10-16:45 hrs CST | Large Language Model for Protein Sequence Generation and Analysis.
+- Understanding the interdisciplinary application of LLMs. [Slides](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-Workshop/blob/37729940d4a76a35140f2eb0c751c5415663a305/Presentation%202-Case-Study-Protein-Function-Prediction.pdf)
+- Demonstrating LLMs for sequence generation.  [notebook 1](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-Workshop/blob/37729940d4a76a35140f2eb0c751c5415663a305/4-Hands-On-Tutorial-On-Loading-Pre-Trainied-Transformers-From-HF.ipynb)
+- Building an machine learning modeling using protein language model. [Notebook 2](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-Workshop/blob/37729940d4a76a35140f2eb0c751c5415663a305/5-Hands-On-Tutorial-On-Protein-Function-Prediction-ProTrans.ipynb)
+
 
 ### 16:45-17:00 hrs CST  - 15 Concluding Remarks and Q&A
 
