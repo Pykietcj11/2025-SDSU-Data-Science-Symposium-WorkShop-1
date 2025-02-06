@@ -45,7 +45,7 @@ The participants are requested to follow the following steps to prepare their wo
 - Introduction to the tutorial session
 - Fundamental concepts about Large Language Model. Brief theory and practical workflow.   
 
-### 13:00-14:00 hrs CST  - 10 minutes Break/Q&A/Setting up worksapce
+### 13:00-14:00 hrs CST  - 10 minutes Break/Q&A/Setting up worksapce
 
 ### Session 2: 14:00-14:30 hrs CST | Introduction to App Development using StreamLit | [Notebook](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-WorkShop1/blob/53bf21514aad0460d1639a67c877a8fc985980f0/1_Case_study_Streamlit.ipynb) 
 - Basic StreamLit Syntax
@@ -56,7 +56,7 @@ The participants are requested to follow the following steps to prepare their wo
 - Building a sentiment classification model using locally installed LLMs.
 - Building an user interface using StreamLit. 
 
-### 15:00-15:10 hrs CST  - 10 minutes Break/Q&A/Setting up worksapce
+### 15:00-15:10 hrs CST  - 10 minutes Break/Q&A/Setting up worksapce
 
 ### Session 4: 15:10-16:00 hrs CEST - 3.	Hands-On tutorial on Retrieval Augmented Generation (RAG) using LLM and StreamLit | [notebook](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-WorkShop1/blob/4058a7abe41bcc518fb091784e56845c55605549/03_Case_study_RAG.ipynb)
 - Understanding the Basic Concepts of RAG.
