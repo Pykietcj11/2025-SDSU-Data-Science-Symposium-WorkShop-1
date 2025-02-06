@@ -93,5 +93,5 @@ Bishnu Sarker is an Assistant Professor of Computer Science and Data Science at 
 
 # Acknoledgement
 This material is based upon work partially supported by the National Science Foundation under Grant No. 2302637. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
-Additionally, we would like to acknowldge the travel support from South Dakota State University and Meharry Medical College. 
+Additionally, we would like to acknowldge the travel support from South Dakota State University, Department of Mathematics and Statistics; and  Meharry Medical College, School of Applied Computational Sciences. 
 
