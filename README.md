@@ -63,12 +63,12 @@ The participants are requested to follow the following steps to prepare their wo
 - Implementing a RAG architecture using locally installed LLM.
 - Building an user interface using StreamLit. 
 
-### Session 5: 16:10-16:45 hrs CST | Large Language Model for Protein Sequence Generation and Analysis | [notebook](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-WorkShop1/blob/4058a7abe41bcc518fb091784e56845c55605549/4_Case_study_pfp.ipynb)
+### Session 5: 16:10-16:45 hrs CST | Large Language Model for Protein Sequence Generation and Analysis | [Slides](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-Workshop/blob/37729940d4a76a35140f2eb0c751c5415663a305/Presentation%202-Case-Study-Protein-Function-Prediction.pdf) | [notebook 1](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-Workshop/blob/37729940d4a76a35140f2eb0c751c5415663a305/4-Hands-On-Tutorial-On-Loading-Pre-Trainied-Transformers-From-HF.ipynb) | [Notebook 2](https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-Workshop/blob/37729940d4a76a35140f2eb0c751c5415663a305/5-Hands-On-Tutorial-On-Protein-Function-Prediction-ProTrans.ipynb)
 - Understanding the interdisciplinary application of LLMs.
 - Building an machine learning modeling using protein language model.
 - Demonstrating LLMs for sequence generation. 
 
-### 16:45-17:00 hrs CEST  - 15 Concluding Remarks and Q&A
+### 16:45-17:00 hrs CST  - 15 Concluding Remarks and Q&A
 
 # Speakers
 
