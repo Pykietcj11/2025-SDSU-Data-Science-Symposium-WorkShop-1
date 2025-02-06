@@ -1,3 +1,19 @@
+## **2025 SDSU Data Science Symposium**
+
+**Venue:** Student Union, South Dakota State University, Brookings, SD, USA
+
+**Date of the session:** February 6, 2025
+
+**Instructor :** Cameron Pykiet, Jaylin Dyson, Bishnu Sarker
+
+**Affiliation :** Meharry Medical College School of Applied Computational Sciences, Tennessee, USA
+
+Please cite this tutorial as:
+
+**Bishnu Sarker, Cameron Pykiet, Jaylin Dyson (2025, February). Workshop 1: Building Interdisciplinary applications using Large Language Models. In 2025 Data Science Symposium at South Dakota State University, February 6-7, 2025, Brookings, SD.**
+
+
+
 # 2025 Data Science Symposium, South Dakota State University.
 
 # Worskshop 1: Building Interdisciplinary applications using Large Language Models 
