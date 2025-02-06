@@ -2,7 +2,7 @@
 
 **Venue:** Student Union, South Dakota State University, Brookings, SD, USA
 
-**Date of the session:** February 6, 2025
+**Date of the session:** February 6, 2025; 13:00-17:00 hrs CST
 
 **Instructor :** Cameron Pykiet, Jaylin Dyson, Bishnu Sarker
 
