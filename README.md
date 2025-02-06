@@ -54,18 +54,13 @@ The participants are requested to follow the following steps to prepare their wo
 
 [Colab-Notebook-Python-Refresher](https://github.com/Bishnukuet/ISMB_ECCB_2023_VT2_LLM/blob/main/notebooks/Day%201-Part-1A-Python-Refresher.ipynb)
 
-### 14:30-15:30 hrs CST  - 3.	Hands-On case study of Text Classification using LLM and StreamLit. 
+### 14:30-15:00 hrs CST  - 3.	Hands-On tutorial  on Text Classification using LLM and StreamLit. 
+
+### 15:00-15:10 hrs CST  - 10 minutes Break/Q&A/Setting up worksapce
+
+### 15:10-16:00 hrs CEST - 3.	Hands-On tutorial on Retrieval Augmented Generation (RAG) using LLM and StreamLit. 
 
 
-### 16:00-17:45 hrs CEST | Introduction to biological sequence analysis using Deep Learning in Python | [Slides](https://github.com/Bishnukuet/ISMB_ECCB_2023_VT2_LLM/blob/main/Slides/Lecture%201.3%20-%20Introduction%20to%20Sequence%20Modeling.pptx.pdf)
-- Introduction to biological sequence analysis using Deep Learning in Python
-- Building deep learning models (RNN, LSTM) for sequence analysis
+### 16:10-16:45 hrs CEST | Large Language Model for Protein Sequence Generation and Analysis. 
 
-[Colab-Notebook-RNN](https://github.com/Bishnukuet/ISMB_ECCB_2023_VT2_LLM/blob/main/notebooks/Day%201-Part-1B-RNN_Sequence_Classification.ipynb)  [Colab-Notebook-LSTM](https://github.com/Bishnukuet/ISMB_ECCB_2023_VT2_LLM/blob/main/notebooks/Day%201-Part-1C-LSTM_Sequence_Classification.ipynb)
-
-### 17:45-18:00 hrs CEST  - 15 minutes Break/Q&A
-
-
-## DAY 2 - July 18, 2023 (14:00 -18:00 hrs CEST)
-
-### 14:00-15:00 hrs CEST | Introduction to Transfo
+### 16:45-17:00 hrs CEST  - 15 Concluding Remarks and Q&A
