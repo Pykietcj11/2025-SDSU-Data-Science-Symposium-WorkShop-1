@@ -48,7 +48,7 @@ The participants are requested to follow the following steps to prepare their wo
 - Fundamental concepts about Large Language Model. Brief theory and practical workflow.   
 
 ### 13:00-14:00 hrs CST  - 10 minutes Break/Q&A/Setting up worksapce
-### 14:00-14:30 hrs CST | Introduction to App Development using StreamLit |
+### 14:00-14:30 hrs CST | Introduction to App Development using StreamLit | [Notebook] (https://github.com/Pykietcj11/2025-SDSU-Data-Science-Symposium-WorkShop1/blob/53bf21514aad0460d1639a67c877a8fc985980f0/1_Case_study_Streamlit.ipynb) 
 - Basic StreamLit Syntax
 - App development using StreamLit
 
