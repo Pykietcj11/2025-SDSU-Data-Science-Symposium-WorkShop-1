@@ -6,7 +6,7 @@
 
 **Date of the session:** February 6, 2025; 13:00-17:00 hrs CST
 
-**Instructor :** Cameron Pykiet, Jaylin Dyson, Bishnu Sarker
+**Instructor :** Cameron Pykiet (cpykiet24@mmc.edu), Jaylin Dyson (jdyson24@mmc.edu), Bishnu Sarker (bsarker@mmc.edu)
 
 **Affiliation :** Meharry Medical College School of Applied Computational Sciences, Tennessee, USA
 
