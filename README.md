@@ -91,7 +91,7 @@ Jaylin Dyson is a second year MS in Data Science student in the School of Applie
 Bishnu Sarker is an Assistant Professor of Computer Science and Data Science at Meharry Medical College, Nashville, TN, USA. He is the Principal Investigator of Sarker’s lab Omics Mining and Algorithmic Reasoning (L’OMAR). His research focus is on applying AI, deep learning, natural language processing (NLP), and graph-based reasoning approaches to effectively describe proteins numerically and to infer their functional characteristics from complex, heterogeneous, and interconnected biomedical data. He received his BS from Khulna University of Engineering and Technology, Bangladesh; MS from Sorbonne University, France; and PhD from INRIA, France. During his PhD he spent a winter at MILA - Quebec AI Institute and University of Montreal, Canada, as a visiting researcher with the DrEAM mobility grant from University of Lorraine. 
 
 
-# Acknoledgement
+# Acknowledgement
 This material is based upon work partially supported by the National Science Foundation under Grant No. 2302637. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
 Additionally, we would like to acknowldge the travel support from South Dakota State University, Department of Mathematics and Statistics; and  Meharry Medical College, School of Applied Computational Sciences. 
 
